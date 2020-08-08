@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Ceiling
+  - Nodes
+  - puzzlePieces
+  - puzzlePieceToLeft
+  - puzzlePieceUp
+  - BeamG
+  - BeamDG
+  - BeamB
+  - BeamP
+  - puzzlePieceToRight
+  - puzzlePieceDown
+  - PuzzlePieceUpRight
+  - RightUp
+  - BeamBStart
+  - LeftDown
+  - LeftUp
+  - RightDown
+  - Enemy
+  - Panels
+  - Buttons
+  - Border
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemies
+  - Background
+  - Blokkiess
+  - bal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 37960123
+    locked: 0
+  - name: Middle ground
+    uniqueID: 2940821067
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor and ceiling
+    uniqueID: 2151780041
+    locked: 0
+  - name: Character
+    uniqueID: 2491526861
+    locked: 0
